@@ -69,8 +69,9 @@ class MongoDBController @Inject()(cc: ControllerComponents, mongo: Mongo) extend
 
 run this project, and access ` http://localhost:9000/testMongo` in your browser:
 ![page](https://raw.githubusercontent.com/ifIAmADJ/imageRepository/master/page.png)
+![page2](/public/images/page.png)
 
-Don't forget to check your mongoDB if you inserted it successfully:
+Don't forget to check your mongoDB whether you inserted it successfully:
 ![mongoDB](https://raw.githubusercontent.com/ifIAmADJ/imageRepository/master/20200507204145.png)
 
 Congratulations!
