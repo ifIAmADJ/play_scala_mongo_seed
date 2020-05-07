@@ -19,7 +19,7 @@ class MongoDBController @Inject()(cc: ControllerComponents, mongo: Mongo) extend
     //replace "test" with your own mongoDB's collection, or it will create a new collection named "test".
     mongo.collection("test").insertOne(testValue)
 
-    Ok(views.html.result("Check weather this testValue has added to your collection successfully."))
+    Ok(views.html.result("Check whether this testValue has added to your collection successfully."))
   }
 
 }

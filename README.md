@@ -71,7 +71,7 @@ run this project, and access ` http://localhost:9000/testMongo` in your browser:
 <img src="public/images/page.png" alt="page" style="zoom:50%;" />
 
 Don't forget to check your mongoDB whether you inserted it successfully:
-<img src="public/images/mongo.png" alt="page" style="zoom:50%;" />
+<img src="public/images/mongo.png" alt="mongo.png" style="zoom:50%;" />
 
 Congratulations!
 
