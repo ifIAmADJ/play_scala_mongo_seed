@@ -1,6 +1,6 @@
 # Build Your First Play-MongoDB Project!
 
-This project is a minimized version of Play! and I built it with **Scala** purely.
+This project is a minimal version of Play! and I built it with **Scala** purely.
 
 I just modified it based on **Play Scala Seed** and added a MongoDB module so that this project will be able to use **MongoDB** as your database!
 
