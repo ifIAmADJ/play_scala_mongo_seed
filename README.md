@@ -1,10 +1,6 @@
 # Build Your First Play-MongoDB Project!
 
-This project is a minimal version of Play! and I built it with **Scala** purely.
-
-I just modified it based on **Play Scala Seed** and added a MongoDB module so that this project will be able to use **MongoDB** as your database!
-
-AHHH,I am just a green hand and learning `scala`  now! but I hope that it will be of use to you if you want to build a sample web server with Scala too.
+This project is a minimal version of Play! and I built it with **Scala** purely. I just modified it which based on **Play Scala Seed** and added a MongoDB module. This minimal project will be able to use **MongoDB** as your database, or just for testing, practicing, etc.
 
 ## Add MongoDB drivers to build.sbt
 
@@ -68,10 +64,10 @@ class MongoDBController @Inject()(cc: ControllerComponents, mongo: Mongo) extend
 ## Go start!
 
 run this project, and access ` http://localhost:9000/testMongo` in your browser:
-<img src="public/images/page.png" alt="page" style="zoom:50%;" />
+![page](https://i.im5i.com/2021/06/11/v8Vzy.png)
 
 Don't forget to check your mongoDB whether you inserted it successfully:
-<img src="public/images/mongo.png" alt="mongo.png" style="zoom:50%;" />
+![Mongo Console](https://i.im5i.com/2021/06/11/v8PT3.png)
 
 Congratulations!
 
