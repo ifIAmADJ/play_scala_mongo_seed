@@ -61,7 +61,7 @@ class MongoDBController @Inject()(cc: ControllerComponents, mongo: Mongo) extend
 }
 ```
 
-## Go start!
+## The first try
 
 run this project, and access ` http://localhost:9000/testMongo` in your browser:
 ![page](https://i.im5i.com/2021/06/11/v8Vzy.png)
